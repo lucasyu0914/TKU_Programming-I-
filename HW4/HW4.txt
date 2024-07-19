@@ -1,0 +1,18 @@
+請繳交程式碼檔與執行畫面截圖
+
+請寫一個程式，隨機生成一組四位數字作為謎底，使用者猜測四個不重複的數字，程式比對謎底並輸出mA nB，表示有m個數字與謎底完全相同，n個數字出現在謎底但位置不對。使用者重複猜測直到完全正確，即4A0B為止。程式輸出範例如下：
+請猜一個四位不重複的數字：2973
+2A1B
+請猜一個四位不重複的數字：3652
+1A1B
+請猜一個四位不重複的數字：5972
+4A0B
+猜對了！
+Please write a program that generates a random four-digit number as the answer. The user guesses four non-repeating digits, and the program compares them to the answer and outputs mAnB, where m is the number of digits that are correct and in the right position, and n is the number of digits that are correct but in the wrong position. The user continues guessing until they guess correctly, i.e., until they reach 4A0B. An example output of the program is as follows:
+Please guess a four-digit number with non-repeating digits: 2973
+2A1B
+Please guess a four-digit number with non-repeating digits: 3652
+1A1B
+Please guess a four-digit number with non-repeating digits: 5972
+4A0B
+You guessed it!

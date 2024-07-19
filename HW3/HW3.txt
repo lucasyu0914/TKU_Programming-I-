@@ -1,0 +1,15 @@
+請繳交程式碼檔與執行畫面成功截圖
+
+
+設計一個終極猜數字遊戲
+設一個變數 , 為1~100的隨機數字，使用者輸入一個數字，判斷輸入的數字是否跟隨機數一樣，如果不一樣就請使用者再猜一次，並提示數字範圍，直到猜對為止
+ex:
+正確答案是30，使用者猜50，下次的範圍是 1至49 ，如果下次猜25，那麼範圍是 26至 49，一直猜到對為止 。
+遊戲參考網址: https://punili.github.io/guessNum/
+
+Design a guessing number game. Set a variable as a random number between 1 and 100. The user inputs a number, and the program determines if the input number matches the random number. If not, prompt the user to guess again and provide the number range until they guess correctly.
+
+Example:
+If the correct answer is 30, and the user guesses 50, the next range is from 1 to 49. If the next guess is 25, the range becomes from 26 to 49, and so on until the correct number is guessed.
+
+Game reference URL: https://punili.github.io/guessNum/

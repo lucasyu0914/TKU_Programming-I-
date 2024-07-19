@@ -1,0 +1,2 @@
+請到 ZeroJudge 或 UVa Online Judge 註冊一個帳號，並繳交一個題目取得 AC (即答案正確），最後將成功的畫面截圖繳交。
+Please register an account on ZeroJudge or UVa Online Judge, submit a problem to obtain AC (Accepted, meaning the answer is correct), and finally submit a screenshot of the successful submission.
